@@ -1,2 +1,2 @@
 # DATA
-Code of Data Analystic/ML 
+Practice of Data Analystic/ML 
