@@ -1,2 +1,6 @@
 # DATA
-Practice of Data Analystic/ML 
+데이터 분석을 위한 다양한 지식을 습득하고 있습니다.
+머신러닝, 딥러닝, 강화 학습, SQL등 공부하구 있습니다.
+깃허브에는 머신 러닝, 딥 러닝, SQL에 관한 코드를 기록하고 있습니다.
+다양한 이론에 관한 내용은 블로그에서 확인할 수 있습니다.
+https://blog.naver.com/chlwnscjf365
